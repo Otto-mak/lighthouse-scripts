@@ -9,12 +9,12 @@ _ID_=1
 for url in "$@"
 do
 
-	exec 1>logfile_$_ID_ 2>&1
+	exec 1>logfile_$_ID_.log 2>&1
     echo "$url"
     lighthouse --disable-device-emulation --disable-cpu-throttling --perf --output=json $url
 
 	echo "$url" >> results.txt
-	grep -B 2 "1600ms" logfile_$_ID_ >> results.txt
+	grep -B 2 "1600ms" logfile_$_ID_.log >> results.txt
 	echo "\n"  >> results.txt
 
 	echo "\n"

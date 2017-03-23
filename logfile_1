@@ -1,9 +1,0 @@
-https://www.cnouch.de
-Thu, 23 Mar 2017 09:42:51 GMT Lighthouse CLI Launching Chrome...
-Thu, 23 Mar 2017 09:42:52 GMT ChromeLauncher Waiting for browser.
-Thu, 23 Mar 2017 09:42:52 GMT ChromeLauncher Waiting for browser...
-Thu, 23 Mar 2017 09:42:52 GMT ChromeLauncher Waiting for browser.....
-Thu, 23 Mar 2017 09:42:52 GMT ChromeLauncher Waiting for browser.....[32m✓[0m
-Thu, 23 Mar 2017 09:42:54 GMT status Initializing…
-Thu, 23 Mar 2017 09:42:54 GMT status Loading page & waiting for onload URL, ImageUsage, ContentWidth, DOMStats
-Thu, 23 Mar 2017 09:42:56 GMT ChromeLauncher Killing all Chrome Instances

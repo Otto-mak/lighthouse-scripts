@@ -4,7 +4,7 @@ this script helps to test _n_ url's at once and log the first meaningful paint t
 
 ## how to?
 
-** node v6+ is required to run lighthouse. install via homebrew or your package manager. **
+**node v6+ is required to run lighthouse. install via homebrew or your package manager.**
 
 - install lighthouse via npm or yarn
 `npm install -g lighthouse` | `yarn global add lighthouse`
