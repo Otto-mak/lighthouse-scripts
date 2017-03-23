@@ -25,4 +25,4 @@ do
 
 done
 
-echo "finished! check out the report.txt file for metrics" >&3
+echo "finished! check out the results.txt file for metrics" >&3
