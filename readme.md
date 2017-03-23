@@ -17,4 +17,4 @@ this script helps to test _n_ url's at once to log the first meaningful paint ti
 ### mobile tests @android
 
 - follow [instructions](https://github.com/GoogleChrome/lighthouse#testing-on-a-mobile-device) and set up your device
-- run the script as instructed above 
+- run the script as instructed above
