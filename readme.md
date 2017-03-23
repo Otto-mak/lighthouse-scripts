@@ -1,6 +1,6 @@
 # lighthouse – first meaningful paint time script
 
-this script helps to test _n_ url's at once and log the first meaningful paint time in a report.
+this script helps to test _n_ url's at once to log the first meaningful paint time.
 
 ## how to?
 
